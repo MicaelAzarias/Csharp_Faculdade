@@ -1,0 +1,9 @@
+Operadores logicos:
+&& (E logico)
+|| (OU logico) 
+! (negação) inverte as afirmações, se for verdadeiro vira falso e vice versa.
+
+
+Controle de fluxo:
+if/else 
+switch/case
