@@ -21,3 +21,6 @@ variaveis criadas dentro do metodo so podem ser usadas dentro do metodo.
 
 Sobre carga de Metodo:
 Permite ter mesmo nome
+
+
+Para DOCUMENTAR EM C# devemos usar /// e escrever o que fizemos no codigo
