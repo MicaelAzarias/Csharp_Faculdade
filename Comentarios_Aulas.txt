@@ -1,0 +1,23 @@
+Cometarios Aula04 Metodos e Funções:
+
+namespace MyApp
+{
+    internal class Program
+    {
+
+        static void Print(String value)  // colocar o static para garantir que não conflita com o main
+        {
+            Console.WriteLine(value);        
+        }
+        static void Main(string[] args)
+        {
+            Print("Hello World!"); // chamada do método Print que acabamos de criar
+        }
+    }
+}
+
+Escopo de Variaveis:
+variaveis criadas dentro do metodo so podem ser usadas dentro do metodo.
+
+Sobre carga de Metodo:
+Permite ter mesmo nome
