@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loopings_for_e_while/1.0.0": {
+        "runtime": {
+          "Loopings_for_e_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loopings_for_e_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\bin\Debug\net8.0\Loopings_for_e_while.exe
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\bin\Debug\net8.0\Loopings_for_e_while.deps.json
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\bin\Debug\net8.0\Loopings_for_e_while.runtimeconfig.json
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\bin\Debug\net8.0\Loopings_for_e_while.dll
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\bin\Debug\net8.0\Loopings_for_e_while.pdb
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.AssemblyInfoInputs.cache
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.AssemblyInfo.cs
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.csproj.CoreCompileInputs.cache
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.dll
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\refint\Loopings_for_e_while.dll
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.pdb
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\Loopings_for_e_while.genruntimeconfig.cache
+C:\Users\azazm\source\repos\Loopings_for_e_while\Loopings_for_e_while\obj\Debug\net8.0\ref\Loopings_for_e_while.dll
